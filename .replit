@@ -1,2 +1,0 @@
-language = "HTML"
-run = "html ASTEROIDS/asteroids.html"
