@@ -1,2 +1,2 @@
-language = "undefined"
-run = ""
+language = "HTML"
+run = "html ASTEROIDS/asteroids.html"
